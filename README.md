@@ -12,3 +12,13 @@ Code _ Batch
 5. Name Lookup                            
 6. Spotify Premium                        
 
+
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Name : Swezy
+
+Password : bYPnU?Kht4xkbU?Hse2YT+TbmaF!YxzvvzZJn?PeYwqTz
