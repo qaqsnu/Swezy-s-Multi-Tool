@@ -11,14 +11,11 @@ Code _ Batch
 4. IP Logger                              
 5. Name Lookup                            
 6. Spotify Premium                        
-
-
-
-
-
-
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-Name : Swezy
-
-Password : bYPnU?Kht4xkbU?Hse2YT+TbmaF!YxzvvzZJn?PeYwqTz
+7. FiveM Cache Cleaner
+8. WTF
+9. "Real Hacker"
+10. Virus Maker
+11. Russian Roulette
+12. More Tools
+13. Background
+14. Credits
