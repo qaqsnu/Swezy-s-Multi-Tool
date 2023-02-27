@@ -16,6 +16,7 @@ Code _ Batch
 9. "Real Hacker"
 10. Virus Maker
 11. Russian Roulette
-12. More Tools
-13. Background
-14. Credits
+12. WinRAR Crack
+13. More Tools
+14. Background
+15. Credits
