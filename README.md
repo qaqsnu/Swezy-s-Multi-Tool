@@ -21,6 +21,5 @@ Code _ Batch
 14. Background
 15. Credits
 
-![Screenshot 2023-03-05 151238](https://user-images.githubusercontent.com/109398018/222965763-4eef586b-e2e5-4c31-9a49-eb26359a2583.png)
-![Screenshot 2023-02-27 204109](https://user-images.githubusercontent.com/109398018/221666760-d406614f-c24e-4751-96e0-faaa60e1bcca.png)
-
+![Bild_2023-03-12_201313230](https://user-images.githubusercontent.com/109398018/224567341-78b1fb69-ab9d-4616-96dd-42de1f584219.png)
+![Bild_2023-03-12_201334470](https://user-images.githubusercontent.com/109398018/224567371-5486c86e-80f3-42a7-a435-6529ed270ad1.png)
