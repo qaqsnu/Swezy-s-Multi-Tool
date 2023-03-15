@@ -24,5 +24,5 @@ Code _ Batch
 17. Easter Egg
 
 ![Screenshot 2023-03-15 140241](https://user-images.githubusercontent.com/109398018/225317022-54c33c78-2c69-408d-a0eb-626420ce7a69.png)
-![Bild_2023-03-12_201334470](https://user-images.githubusercontent.com/109398018/224567371-5486c86e-80f3-42a7-a435-6529ed270ad1.png)
+![Bild_2023-03-15_193605934](https://user-images.githubusercontent.com/109398018/225409295-8ad43887-abe3-43db-b08d-04c6b18f96bf.png)
 
