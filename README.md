@@ -23,5 +23,6 @@ Code _ Batch
 16. Credits
 17. Easter Egg
 
-![Bild_2023-03-12_201313230](https://user-images.githubusercontent.com/109398018/224567341-78b1fb69-ab9d-4616-96dd-42de1f584219.png)
+![Screenshot 2023-03-15 140241](https://user-images.githubusercontent.com/109398018/225317022-54c33c78-2c69-408d-a0eb-626420ce7a69.png)
 ![Bild_2023-03-12_201334470](https://user-images.githubusercontent.com/109398018/224567371-5486c86e-80f3-42a7-a435-6529ed270ad1.png)
+
